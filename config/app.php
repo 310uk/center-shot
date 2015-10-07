@@ -146,6 +146,7 @@ return [
 		'App\Providers\RouteServiceProvider',
 	    'SammyK\LaravelFacebookSdk\LaravelFacebookSdkServiceProvider',
 	    'Barryvdh\Debugbar\ServiceProvider',
+	    'Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider',
 
 	],
 
